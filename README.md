@@ -2,7 +2,7 @@
 > Resources for Flink learning
 
 ## Repo
-- https://github.com/DataEngDev/flink-learning
+- https://github.com/zhisheng17/flink-learning
 - https://github.com/josephmachado/beginner_de_project_stream
 - https://github.com/ververica/flink-training
 - https://github.com/dataArtisans/flink-streaming-demo
